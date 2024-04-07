@@ -45,7 +45,3 @@ Additionally, when you put in or take out a value, the contract sends out a noti
 ```
 go to https://remix.ethereum.org/
 ```
-### Providers
-```
-Arash Namaki - Mohammad Kamali Nasab
-```
